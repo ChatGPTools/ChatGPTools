@@ -1,6 +1,5 @@
 <p align='center'>
   <b>Hi 👋, I'm the creator behind ChatGPTools</b><br>
-  Specializing in AI-driven tools for networking and web monitoring.
 </p>
 
 <p align="center"><br>
